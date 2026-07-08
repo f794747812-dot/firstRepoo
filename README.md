@@ -1,2 +1,0 @@
-# firstRepoo
-this is test
